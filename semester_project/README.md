@@ -1,6 +1,10 @@
 # Encryptica
 ## Summary
-A short description of the community problem and first features.
+Encryptica is a web application that helps community members protect their
+personal information through simple, easy-to-use encryption tools. It addresses
+the problem of weak data privacy practices among everyday users who lack
+technical security knowledge. The first features include a home screen, user
+login, and a basic interface for securing and managing sensitive data.
 ## Current stack
 Flutter Web / Dart; planned REST API and PostgreSQL.
 ## Run locally
